@@ -53,7 +53,7 @@ addEventListener("fetch", event => {
       purpose: "any maskable"
       },
       {
-      src: "\/main\/android-icon-512x512.png",
+      src: "https://4.bp.blogspot.com/-nTbe-Apx_bc/YTuEPRB6UUI/AAAAAAAAB-g/-ePGYsDbg48GLpbq2H6SgJwRPUGp9TJigCLcBGAsYHQ/s0/android-chrome-512x512.png",
       sizes: "512x512",
       type: "image/png",
       density: "4.0",
