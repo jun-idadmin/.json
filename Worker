@@ -6,47 +6,47 @@ addEventListener("fetch", event => {
     prefer_related_applications: false,
     start_url: ".",
     scope: "\/",
-    background_color: "#fff",
-    theme_color: "#fff",
+    background_color: "#ffffff",
+    theme_color: "#ffffff",
     description: "Di website Suyachan.my.id, Anda akan mendapatkan informasi tentang Apk MOD, Game MOD, Tutorial, Apn dan HTML , CSS,  JS.",
     icons:[
       {
-      src: "\/main\/android-icon-36x36.png",
-      sizes: "36x36",
+      src: "https://4.bp.blogspot.com/-whXOFdw1ke8/YOM_FJRf2KI/AAAAAAAABrQ/VaRjO5ADP18IE6Hwk3xmDJJx1HyeUPcfQCLcBGAsYHQ/s0/favicon-32x32.png",
+      sizes: "32x32",
       type: "image\/png",
       density: "0.75",
       purpose: "any maskable"
       },
       {
-      src: "\/main\/android-icon-48x48.png",
-      sizes: "48x48",
+      src: "https://4.bp.blogspot.com/-_BN0I2hJvXY/YOM_DcObanI/AAAAAAAABq4/5xf4bOgmtLEjWYVlB1OvfRzPk0OyTetAACLcBGAsYHQ/s0/apple-touch-icon-57x57.png",
+      sizes: "57x57",
       type: "image\/png",
       density: "1.0",
       purpose: "any maskable"
       },
       {
-      src: "\/main\/android-icon-72x72.png",
+      src: "https://4.bp.blogspot.com/-3ADNOAfPQ98/YOM_EZMFKRI/AAAAAAAABrA/AteYVkZHEcgTRW8kbrpq7VzfMLJfjdf-gCLcBGAsYHQ/s0/apple-touch-icon-72x72.png",
       sizes: "72x72",
       type: "image\/png",
       density: "1.5",
       purpose: "any maskable"
       },
       {
-      src: "\/main\/android-icon-96x96.png",
+      src: "https://4.bp.blogspot.com/-R-s2iqCjj4A/YOM_EoyZYqI/AAAAAAAABrI/qUv2zcGPCTc_hQWs8KFMpdnt1yWJrvUxQCLcBGAsYHQ/s0/apple-touch-icon-96x96.png",
       sizes: "96x96",
       type: "image\/png",
       density: "2.0",
       purpose: "any maskable"
       },
       {
-      src: "\/main\/apple-icon-144x144.png",
+      src: "https://4.bp.blogspot.com/-TYF4nq6hckA/YOM_CM7YulI/AAAAAAAABqs/v0MU5R6k0_046B9ZNI_3y8aqloIMGDD1gCLcBGAsYHQ/s0/apple-touch-icon-114x114.png",
       sizes: "144x144",
       type: "image\/png",
       density: "3.0",
       purpose: "any maskable"
       },
       {
-      src: "\/main\/android-icon-192x192.png",
+      src: "https://4.bp.blogspot.com/-lfa7iR4BVkE/YOM-UPpMdVI/AAAAAAAABqc/bWXjlwLSFU8fBBABslrFq-apvh-qzmhPQCLcBGAsYHQ/s0/android-icon-192x192.png",
       sizes: "192x192",
       type: "image\/png",
       density: "4.0",
